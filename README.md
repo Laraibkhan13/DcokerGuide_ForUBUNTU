@@ -30,11 +30,11 @@ Check whether Docker is running with the following command:
 ## sudo systemctl status docker
 
 **If the status is not running, start the Docker service using:**
-## sudo systemctl start docker**
+## sudo systemctl start docker
 
 # Step 6: Run a Test Docker Container
 Finally, check that Docker is working by running a test container: 
-## sudo docker run hello-world**
+## sudo docker run hello-world
 **This command will download and run the "Hello World" container, verifying that your Docker installation is successful.**
 
 
